@@ -38,7 +38,7 @@ git clone https://github.com/fyf2022/yolov5_inference.git
 **在Gitee上克隆下载：**
 
 ```shell
-git clone https://gitee.com/
+git clone https://gitee.com/fyf2022/yolov5_inference.git
 ```
 
 ## 项目说明
