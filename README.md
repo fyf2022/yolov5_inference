@@ -32,7 +32,7 @@
 **在Github上克隆下载：**
 
 ```shell
-git clone https://github.com/
+git clone https://github.com/fyf2022/yolov5_inference.git
 ```
 
 **在Gitee上克隆下载：**
